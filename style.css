@@ -1,0 +1,249 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  color: #32be8f;
+}
+.bp {
+  display: block;
+  width: 100%;
+  height: 50px;
+  border-radius: 25px;
+  outline: none;
+  border: none;
+  background-image: linear-gradient(to right, #32be8f, #38d39f, #32be8f);
+  background-size: 200%;
+  font-size: 1.2rem;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  margin: 1rem 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.bp:hover {
+  background-position: right;
+}
+.bp a {
+  text-align: left;
+  color: black;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: 0.3s;
+}
+.bp a:hover {
+  color: white;
+}
+.fh {
+  display: block;
+  width: 100%;
+  height: 50px;
+  border-radius: 25px;
+  outline: none;
+  border: none;
+  background-image: linear-gradient(to right, #32be8f, #38d39f, #32be8f);
+  background-size: 200%;
+  font-size: 1.2rem;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  margin: 1rem 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.fh:hover {
+  background-position: right;
+}
+.fh a {
+  text-align: left;
+  color: black;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: 0.3s;
+}
+.fh a:hover {
+  color: white;
+}
+.ni {
+  display: block;
+  width: 100%;
+  height: 50px;
+  border-radius: 25px;
+  outline: none;
+  border: none;
+  background-image: linear-gradient(to right, #32be8f, #38d39f, #32be8f);
+  background-size: 200%;
+  font-size: 1.2rem;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  margin: 1rem 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.ni:hover {
+  background-position: right;
+}
+.ni a {
+  text-align: left;
+  color: black;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: 0.3s;
+}
+.ni a:hover {
+  color: white;
+}
+.nf {
+  display: block;
+  width: 100%;
+  height: 50px;
+  border-radius: 25px;
+  outline: none;
+  border: none;
+  background-image: linear-gradient(to right, #32be8f, #38d39f, #32be8f);
+  background-size: 200%;
+  font-size: 1.2rem;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  margin: 1rem 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.nf:hover {
+  background-position: right;
+}
+.nf a {
+  text-align: left;
+  color: black;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: 0.3s;
+}
+.nf a:hover {
+  color: white;
+}
+.nn {
+  display: block;
+  width: 100%;
+  height: 50px;
+  border-radius: 25px;
+  outline: none;
+  border: none;
+  background-image: linear-gradient(to right, #32be8f, #38d39f, #32be8f);
+  background-size: 200%;
+  font-size: 1.2rem;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  margin: 1rem 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.nn:hover {
+  background-position: right;
+}
+.nn a {
+  text-align: left;
+  color: black;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: 0.3s;
+}
+.nn a:hover {
+  color: white;
+}
+.nt {
+  display: block;
+  width: 100%;
+  height: 50px;
+  border-radius: 25px;
+  outline: none;
+  border: none;
+  background-image: linear-gradient(to right, #32be8f, #38d39f, #32be8f);
+  background-size: 200%;
+  font-size: 1.2rem;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  margin: 1rem 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.nt:hover {
+  background-position: right;
+}
+.nt a {
+  text-align: left;
+  color: black;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: 0.3s;
+}
+.nt a:hover {
+  color: white;
+}
+.ns {
+  display: block;
+  width: 100%;
+  height: 50px;
+  border-radius: 25px;
+  outline: none;
+  border: none;
+  background-image: linear-gradient(to right, #32be8f, #38d39f, #32be8f);
+  background-size: 200%;
+  font-size: 1.2rem;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  margin: 1rem 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.ns:hover {
+  background-position: right;
+}
+.ns a {
+  text-align: left;
+  color: black;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: 0.3s;
+}
+.ns a:hover {
+  color: white;
+}
+.nr {
+  display: block;
+  width: 100%;
+  height: 50px;
+  border-radius: 25px;
+  outline: none;
+  border: none;
+  background-image: linear-gradient(to right, #32be8f, #38d39f, #32be8f);
+  background-size: 200%;
+  font-size: 1.2rem;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  margin: 1rem 0;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.nr:hover {
+  background-position: right;
+}
+.nr a {
+  text-align: left;
+  color: black;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: 0.3s;
+}
+.nr a:hover {
+  color: white;
+}
